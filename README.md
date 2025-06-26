@@ -7,6 +7,7 @@
 </h3><img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
 <ul>
+  <li>B.Sc. in CSE from <a href="https://www.guc.edu.eg/" target="_blank">GUC</a></li>
   <li>Full Stack Developer at <a href="https://www.ntsal.com" target="_blank">Ntsal</a></li>
 </ul>
 <h3 align="left">Connect with me:</h3>
