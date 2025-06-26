@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arwa Wail</h1>
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*qdAW1TjCN57h1lbuuzvchg.gif" alt="GIF" width="400" />
+</p>
 <h3 align="center">A passionate Full Stack Developer || AI Enthusiast</h3>
 
 <h3 align="left">Connect with me:</h3>
