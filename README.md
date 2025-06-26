@@ -1,10 +1,14 @@
 <h1 align="center">Hi 👋, I'm Arwa Wail</h1>
 
-<h3 align="center">A passionate Full Stack Developer || AI Enthusiast</h3>
-<p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*qdAW1TjCN57h1lbuuzvchg.gif" alt="GIF" width="400" />
-</p>
+<h3 align="center" style="color: #4A90E2; font-size: 24px;">
+  <marquee behavior="scroll" direction="left" style="color: #E94E77;">
+   A passionate Full Stack Developer, eager to dive into new challenges as a fresher || AI Enthusiast
+  </marquee>
+</h3><img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
+<ul>
+  <li>Full Stack Engineer at Ntsal</li>
+</ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/arwa-gad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arwa-gad" height="30" width="40" /></a>
