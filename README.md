@@ -2,12 +2,12 @@
 
 <h3 align="center" style="color: #4A90E2; font-size: 24px;">
   <marquee behavior="scroll" direction="left" style="color: #E94E77;">
-   A passionate Full Stack Developer, eager to dive into new challenges as a fresher || AI Enthusiast
+   A passionate Full Stack Developer, eager to dive into new challenges as a fresher
   </marquee>
 </h3><img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
 <ul>
-  <li>Full Stack Engineer at Ntsal</li>
+  <li>Full Stack Developer at <a href="https://www.ntsal.com" target="_blank">Ntsal</a></li>
 </ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
